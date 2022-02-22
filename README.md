@@ -2,9 +2,9 @@
 Avishkar 2020 MNNIT
 
 ## Team name: ERUDITION
-1. Member 1: KASHISH SINGH0(20195082)
-2. Member 2: Chirag Gupta(20195070)
-3. Member 3: Ankit Neeraj(20195074)
+1. Member 1: KASHISH SINGH (20195082)
+2. Member 2: ANKIT NEERAJ (20195074)
+3. Member 3: CHIRAG GUPTA (20195070)
 
 ## App Name: ERUDITION
 
